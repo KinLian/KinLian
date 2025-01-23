@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Go, Framer-motion, Design Systems**
 
-- 👨‍💻 All of my projects are available at [https://muhammadhaqqi.netlify.app](https://muhammadhaqqi.netlify.app)
+- 👨‍💻 All of my projects & experience informations are available at [https://muhammadhaqqi.netlify.app](https://muhammadhaqqi.netlify.app)
 
 - 📝 I regularly write articles on [https://medium.com/@muhammad.haqqi01](https://medium.com/@muhammad.haqqi01)
 
