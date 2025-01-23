@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Haqqi Al Farizi</h1>
 <h3 align="center">Hello everyone! I’m a graduated Computer Science Student in University of Indonesia. I have a strong passion in Software Engineering, mainly in Frontend Development. I’m still actively learn newer technologies used in the industry such as Next.js, ChakraUI, framer-motion, and TanStack. I already have participated in numerous projects with the real client to deliver the best possible applications. I also like to create a “fully from scratch & self-made” applications. I have some curiosity about many things so that I like to learn something new.</h3>
 
+- 🛠 Most of my works are in GitLab right here [https://gitlab.com/muhammad.haqqi01](https://gitlab.com/muhammad.haqqi01)
+
 - 🌱 I’m currently learning **Go, Framer-motion, Design Systems**
 
 - 👨‍💻 All of my projects are available at [https://muhammadhaqqi.netlify.app](https://muhammadhaqqi.netlify.app)
