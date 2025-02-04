@@ -3,7 +3,7 @@
 
 - 🛠 Most of my works are in GitLab right here [https://gitlab.com/muhammad.haqqi01](https://gitlab.com/muhammad.haqqi01)
 
-- 🌱 I’m currently learning **Go, Framer-motion, Design Systems**
+- 🌱 I’m currently learning **Framer-motion, Design Systems, and others**
 
 - 👨‍💻 All of my projects & experience informations are available at [https://muhammadhaqqi.netlify.app](https://muhammadhaqqi.netlify.app)
 
